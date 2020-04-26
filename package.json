@@ -1,0 +1,24 @@
+{
+  "name": "use-react-form",
+  "version": "0.0.1",
+  "description": "React forms on steroids. Flexible and performant form library using React Hooks API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react",
+    "forms",
+    "hooks"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/powah/use-react-form.git"
+  },
+  "author": "Aurimas Likas",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/powah/use-react-form/issues"
+  },
+  "homepage": "https://github.com/powah/use-react-form#readme"
+}
